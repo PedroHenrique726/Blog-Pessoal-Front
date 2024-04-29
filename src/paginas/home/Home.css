@@ -1,11 +1,11 @@
 .titulo{
-    color: rgb(84, 209, 116);
+    color: blue;
     text-align: center;
 }
 
 .img{
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     display: block;
     margin: 0 auto;
 }
